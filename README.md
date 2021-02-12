@@ -29,16 +29,15 @@ adgeb
           * ece a
           * ece b
     ### code
-   ` python
-   print ("hello")`
-    ``` python
-       print ("hello")`
-       ``` 
-       #### task  insert a code of hello in c
-            printf ("hello world")
-### include <stdio.h>
+   ``` python
+   print ("hello")
+    ``` 
+#### task  insert a code of hello in c
+```        
+include <stdio.h>
 int main ()
 { 
 printf(" hello world") 
 return 0;
 }
+```
