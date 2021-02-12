@@ -28,4 +28,7 @@ adgeb
     - ece
           * ece a
           * ece b
+    ### code
+   ` python
+   print ("hello")`
     
