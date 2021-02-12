@@ -49,4 +49,4 @@ return 0;
 - college web site link
 [kits](kits.com)
 -git official site url
-[git](git.com)
+[git](git -scm.com)
