@@ -35,4 +35,4 @@ adgeb
        print ("hello")`
        ``` 
        #### task  insert a code of hello in c
-       ```print ("hello world")
+            printf ("hello world")
