@@ -53,3 +53,6 @@ return 0;
 ### adding image
 ![ysh](https://github.com/Jashu424/markdown-syntax/blob/master/ysh.jpg)
 
+### inserting ruls
+[![cherry](https://imj.youtube.com/vi/MFtMUBVcM0U/0.jpg)](https://www.youtube.com/watch?v=MFtMUBVcM0U)
+
