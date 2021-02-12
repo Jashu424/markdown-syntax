@@ -36,3 +36,4 @@ adgeb
        ``` 
        #### task  insert a code of hello in c
             printf ("hello world")
+2
