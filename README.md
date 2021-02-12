@@ -1,2 +1,7 @@
 # markdown-syntax
-day 2 markdown syntaxex
+## heading2
+### heading3
+#### heading4
+*ece*
+__ece_
+## bold and italic text
